@@ -1,0 +1,8 @@
+{
+  "name": "Remix VERSION 4 Siisti360 ",
+  "description": "Dynaaminen monikielinen siivouspalvelualusta pääkaupunkiseudulle. Hintalaskuri, nopea varauspyyntö, kattava SEO-rakenne ja suomi-ruotsi-englanti -tuki.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

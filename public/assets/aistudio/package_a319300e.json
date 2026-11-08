@@ -1,0 +1,16 @@
+{
+  "name": "siisti360-cleaning-leads",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Finnish-first multilingual SEO cleaning company website with real lead capture and admin dashboard",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test scripts/smoke-test.js",
+    "seo:export": "node scripts/export-seo.js",
+    "export:html": "node scripts/export-all-html.js"
+  },
+  "license": "UNLICENSED"
+}
